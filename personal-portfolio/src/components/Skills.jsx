@@ -35,7 +35,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>I possess strong proficiency in Java, C++, and JavaScript, with hands-on experience developing robust backend solutions using Node.js, Express.js, and React.js. My expertise extends to working with databases such as MongoDB and MySQL, enabling me to design and manage scalable data-driven applications. I am well-versed in essential development tools and platforms, including Git, Postman, Visual Studio Code, and GitHub, which streamline my workflow and enhance collaboration. Additionally, I have a solid understanding of RESTful APIs, JSON, JWT authentication, and EJS templating, and I adhere to the MVC architecture to ensure clean, maintainable codebases.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
