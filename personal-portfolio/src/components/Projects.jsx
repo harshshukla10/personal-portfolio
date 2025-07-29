@@ -16,6 +16,13 @@ export const Projects = () => {
       imgUrl: projImg1,
       proUrl:"https://virtual-event-planner.onrender.com/",
     },
+    {
+      title: "BookLoop : Second Hand Book Marketplace",
+      description: "A platform for buying and selling second-hand books.",
+      imgUrl: projImg2,
+      proUrl:"https://bookloop-ek2a.onrender.com/"
+    },
+
     
   ];
 
